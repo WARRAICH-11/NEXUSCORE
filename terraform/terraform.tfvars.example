@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars and fill in values
+project_name = "NexusCore"
+organization_id = "<YOUR_SUPABASE_ORG_ID_UUID>"
+db_password = "<A_STRONG_DB_PASSWORD>"
+# Example regions: us-east-1, eu-west-1 (see Supabase docs for supported regions)
+region = "us-east-1"
